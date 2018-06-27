@@ -1,4 +1,4 @@
-# Node.js Assignment
+# Pizza Shop - Node.js Assignment
 
 This repository contains RESTful API, web app GUI, and a CLI in plain Node JS (ES6 Javascript) with **no NPM or 3rd-party libraries**.
 
